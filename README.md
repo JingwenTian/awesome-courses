@@ -4,6 +4,7 @@
 
 ## 大学课程资料
 
+- [lib-pku/libpku](https://github.com/lib-pku/libpku) - 北大课程资料民间整理 
 - [tongtzeho/PKUCourse](https://github.com/tongtzeho/PKUCourse) - 北大计算机课程大作业
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
