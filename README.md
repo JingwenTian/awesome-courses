@@ -11,6 +11,7 @@
 - [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) - 中国科学技术大学课程资源
 - [sysuexam/SYSU-Exam](https://github.com/sysuexam/SYSU-Exam) - 收集整理SYSU(中山大学)期末考试卷子、资料
 - [CoolPhilChen/SJTU-Courses](https://github.com/CoolPhilChen/SJTU-Courses) - 上海交通大学课程资料分享
+- [zjdx1998/seucourseshare](https://github.com/zjdx1998/seucourseshare) - 东南大学课程共享计划
 
 ## 公开课
 
